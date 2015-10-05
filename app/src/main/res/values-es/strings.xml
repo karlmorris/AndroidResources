@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Resources</string>
+
+    <string name="instructions">Haga clic en el botón de abajo para ir a la siguiente pantalla</string>
+
+    <string name="button_title_next">Siguiente</string>
+    <string name="name_label">Nombre</string>
+    <string name="email_label">Email</string>
+
+    <string name="configuration_changed">La configuración del dispositivo ha cambiado</string>
+
+    <string name="dialog_title">Siguiente pantalla</string>
+    <string name="dialog_message">¿Quieres ir a la siguiente pantalla?</string>
+
+    <string name="title_activity_2">Activity2</string>
+</resources>
